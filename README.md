@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @compdesigner-nz
+- 👋 Hi, I’m Jack Walker.
+- I'm currently working at Aurecon, as a computational design consultant.
 - 👀 I’m interested in computational design, software development and the world of the AEC industry.
 - 🌱 I’m currently learning python, C#, js, html, css and R.
 - 💞️ I’m looking to collaborate on not much at the moment. This is just a profile for my hobbie projects. 
