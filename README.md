@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jack Walker.
-- I'm currently working at Aurecon, as a computational design consultant and I am working on an eary-stage startup over at [The Adaptive Network](https://about-us.theadaptivenetwork.org)
-- 👀 I’m interested in human behavioural dynamics, application of technology to climate change, green tech and systems change.
-- 🌱 I’m currently learning python, Vue, React, and C#.
+- I'm currently working at Aurecon, as a computational design consultant and I am working on an eary-stage startup over at [The Adaptive Network](https://about-us.theadaptivenetwork.org).
+- 👀 I’m interested in human behavioural dynamics, systems thinking, design thinking, the application of technology to climate change, green tech development, community building and capacity development.
 I have a professional job doing computational design and design automation. You can find out more here: [Aurecon](https://www.aurecon.com)
 - 📫 How to reach me ... [Email](mailto:hello@jackwalker.co.nz) or my [Website](https://jackwalker.co.nz)
 
